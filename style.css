@@ -21,8 +21,8 @@ section {
     position: relative;
     background-color: transparent;
     backdrop-filter: blur(10px);
-    width: 600px;
-    height: 600px;
+    width: 40%;
+    height: 50%;
     border: 2px solid white;
     border-radius: 20px;
     text-align: center;
